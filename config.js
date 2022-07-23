@@ -69,7 +69,7 @@ global.nameown = 'Riku'
 global.owner = [
   ['6285717128563'],
   ['6287873985625'],
-  ['6288225096489'],
+  ['6287873985625'],
   ['6287873985625', 'Riku Store', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
